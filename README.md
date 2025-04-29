@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnePiece-EiichiroOda aka Nikhil
+- 👋 Hi, I’m @OnePiece-EiichiroOda a.k.a Nikhil
 - 👀 I’m interested in the field of Data Science
 - 🌱 I’m currently pursuing Expertise in Data Science
 - 🌱 I am mastering in Data Science from Scaler University
